@@ -1,2 +1,2 @@
 This is line 1 of mars.
-This is line 2 of mars.
+This is line 2 of mars. Hello mars!
